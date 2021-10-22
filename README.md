@@ -1,0 +1,2 @@
+# syntechnesia-app
+SYNTECHNESIA (Synchronize Technology Indonesia) adalah platform aplikasi pelaporan &amp; pengaduan Masyarakat berbasis website, yang memiliki fungsi utama untuk menyampaikan dan memvalidasi laporan-laporan yang telah disampaikan oleh Masyarakat dalam segala aspek bidang kehidupan, dan yang bertujuan untuk mempercepat proses penindakan atas suatu peristiwa atau masalah yang terjadi disekitar kehidupan berMasyarakat.
