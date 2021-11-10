@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title> <?= $title; ?> </title>
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="<?= base_url('vendor/'); ?>sbadmin2/css/sis.css" rel="stylesheet">
+        <link href="<?= base_url('vendor/'); ?>sbadmin2/css/styles.css" rel="stylesheet">
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="<?= base_url('vendor/'); ?>sbadmin2/assets/image/illustrations/iconic.png">
         <!-- Font Awesome icons (free version)-->
