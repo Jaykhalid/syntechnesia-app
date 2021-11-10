@@ -99,8 +99,8 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
                       <div class="dropdown-header">Dropdown Header:</div>
-                      <a class="dropdown-item" href="#">Action</a>
-                      <a class="dropdown-item" href="#">Another action</a>
+                      <a class="dropdown-item" href="#">Aksi</a>
+                      <a class="dropdown-item" href="#"> Aksi lainnya </a>
                       <div class="dropdown-divider"></div>
                       <a class="dropdown-item" href="#">Apa ini</a>
                     </div>
